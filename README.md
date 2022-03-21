@@ -3,6 +3,8 @@
 
  Click on the links below to open the projects:
 
+* <a href="https://lucasdam.github.io/mini-web-projects/calculator/" target="_blank">Calculator</a>
+
 * <a href="https://lucasdam.github.io/mini-web-projects/countdown/" target="_blank">Countdown</a>
 
 * <a href="https://lucasdam.github.io/mini-web-projects/imc/" target="_blank">IMC</a>
